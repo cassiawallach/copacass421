@@ -302,7 +302,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>copacass421@copado.com.prod</runningUser>
+    <runningUser>copacass421@copado.com</runningUser>
     <textColor>#000000</textColor>
     <title>Adoption Dashboard</title>
     <titleColor>#000099</titleColor>
